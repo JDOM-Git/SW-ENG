@@ -1,4 +1,4 @@
-name: Step 4, Create a blog post
+name: Step 4, Create a blog post 
 
 # This step triggers after the learner creates a blog post.
 # This workflow updates from step 4 to step 5.
@@ -12,6 +12,7 @@ on:
       - my-pages
     paths:
       - _posts/*.md
+      - _posts2/*.md
 
 # Reference: https://docs.github.com/en/actions/security-guides/automatic-token-authentication
 permissions:
