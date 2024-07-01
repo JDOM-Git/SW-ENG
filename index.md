@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Justin's path to learning SW Eng
 ---
 # Learning Software Engineering
 
